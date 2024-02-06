@@ -1,3 +1,7 @@
 *.zip
 *.sql
 *.xlsx
+
+## OSX
+.DS_Store
+
